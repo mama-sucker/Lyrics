@@ -1,0 +1,14 @@
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 1 - Excercise 1.2\Lyrics\bin\Debug\net6.0\Lyrics.exe
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 1 - Excercise 1.2\Lyrics\bin\Debug\net6.0\Lyrics.deps.json
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 1 - Excercise 1.2\Lyrics\bin\Debug\net6.0\Lyrics.runtimeconfig.json
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 1 - Excercise 1.2\Lyrics\bin\Debug\net6.0\Lyrics.dll
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 1 - Excercise 1.2\Lyrics\bin\Debug\net6.0\Lyrics.pdb
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 1 - Excercise 1.2\Lyrics\obj\Debug\net6.0\Lyrics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 1 - Excercise 1.2\Lyrics\obj\Debug\net6.0\Lyrics.AssemblyInfoInputs.cache
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 1 - Excercise 1.2\Lyrics\obj\Debug\net6.0\Lyrics.AssemblyInfo.cs
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 1 - Excercise 1.2\Lyrics\obj\Debug\net6.0\Lyrics.csproj.CoreCompileInputs.cache
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 1 - Excercise 1.2\Lyrics\obj\Debug\net6.0\Lyrics.dll
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 1 - Excercise 1.2\Lyrics\obj\Debug\net6.0\refint\Lyrics.dll
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 1 - Excercise 1.2\Lyrics\obj\Debug\net6.0\Lyrics.pdb
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 1 - Excercise 1.2\Lyrics\obj\Debug\net6.0\Lyrics.genruntimeconfig.cache
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 1 - Excercise 1.2\Lyrics\obj\Debug\net6.0\ref\Lyrics.dll
